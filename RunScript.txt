@@ -1,0 +1,1 @@
+"C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\propy.bat" "C:\Incidents\2021\UCIP\TEST_UCIP.py"
